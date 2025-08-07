@@ -1,0 +1,4 @@
+JIRA_EMAIL=your-email@domain.com
+JIRA_API_TOKEN=your-api-token
+JIRA_DOMAIN=yourdomain.atlassian.net
+JIRA_PROJECT_KEY=DEV
